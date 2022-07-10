@@ -1,0 +1,18 @@
+h1{
+    color: rgb(0, 182, 182);
+    padding: 10px;
+}
+.header{
+    border-color: rgb(68, 198, 25);
+    border-width: 10px;
+    padding: 10px;
+    display: flex;
+}
+.menu{
+    justify-content: right;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
